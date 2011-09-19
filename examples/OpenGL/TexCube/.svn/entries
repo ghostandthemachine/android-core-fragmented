@@ -1,0 +1,55 @@
+8
+
+dir
+8493
+http://processing.googlecode.com/svn/trunk/processing/android/examples/OpenGL/TexCube
+http://processing.googlecode.com/svn
+
+
+
+2011-06-23T04:36:23.215724Z
+8111
+andres.colubri@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe3ceab9-de17-3b67-bb2e-7d58edd5e4d6
+
+TexCube.pde
+file
+
+
+
+
+2011-06-29T14:08:11.000000Z
+0d2c5e62e95954dc46ff8e488ea2605f
+2011-06-23T04:36:23.215724Z
+8111
+andres.colubri@gmail.com
+
+VertData.pde
+file
+
+
+
+
+2011-06-22T16:10:45.000000Z
+dd298ea8c659f93009f8559333d0228a
+2011-01-26T20:22:21.114366Z
+7608
+fry@processing.org
+
+data
+dir
+

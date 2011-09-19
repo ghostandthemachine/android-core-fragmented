@@ -1,0 +1,52 @@
+8
+
+dir
+8493
+http://processing.googlecode.com/svn/trunk/processing/android/examples/Sensors/Compass
+http://processing.googlecode.com/svn
+
+
+
+2011-03-07T00:04:10.879782Z
+7743
+fry@processing.org
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe3ceab9-de17-3b67-bb2e-7d58edd5e4d6
+
+Compass.pde
+file
+
+
+
+
+2011-06-22T16:10:54.000000Z
+2d072cb9942e79fb1b27ba638a88ab2d
+2011-03-07T00:04:10.879782Z
+7743
+fry@processing.org
+
+CompassManager.java
+file
+
+
+
+
+2011-06-22T16:10:54.000000Z
+c52372d75c9fd5a62d8e318a86497eb5
+2011-03-07T00:04:10.879782Z
+7743
+fry@processing.org
+

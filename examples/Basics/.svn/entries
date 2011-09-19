@@ -1,0 +1,70 @@
+8
+
+dir
+8493
+http://processing.googlecode.com/svn/trunk/processing/android/examples/Basics
+http://processing.googlecode.com/svn
+
+
+
+2011-04-17T16:55:37.391633Z
+7904
+fry@processing.org
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe3ceab9-de17-3b67-bb2e-7d58edd5e4d6
+
+Arrays
+dir
+
+Color
+dir
+
+Control
+dir
+
+Data
+dir
+
+Form
+dir
+
+Image
+dir
+
+Input
+dir
+
+Math
+dir
+
+Objects
+dir
+
+Shape
+dir
+
+Structure
+dir
+
+Transform
+dir
+
+Typography
+dir
+
+Web
+dir
+

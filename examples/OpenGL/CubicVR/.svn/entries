@@ -1,0 +1,79 @@
+8
+
+dir
+8493
+http://processing.googlecode.com/svn/trunk/processing/android/examples/OpenGL/CubicVR
+http://processing.googlecode.com/svn
+
+
+
+2011-06-23T04:36:23.215724Z
+8111
+andres.colubri@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe3ceab9-de17-3b67-bb2e-7d58edd5e4d6
+
+CubicVR.pde
+file
+
+
+
+
+2011-06-29T14:08:11.000000Z
+b579dc3363893f1f86669d05c58bdcb4
+2011-06-23T04:36:23.215724Z
+8111
+andres.colubri@gmail.com
+
+arcBall.pde
+file
+
+
+
+
+2011-06-22T16:10:44.000000Z
+2d19f13ac0967d4f698db98e50fd521b
+2011-01-26T20:22:21.114366Z
+7608
+fry@processing.org
+
+data
+dir
+
+pov.pde
+file
+
+
+
+
+2011-06-22T16:10:44.000000Z
+2244b20bbc1acbb53016125c5dbde58f
+2011-01-26T20:22:21.114366Z
+7608
+fry@processing.org
+
+vrCube.pde
+file
+
+
+
+
+2011-06-22T16:10:44.000000Z
+327380ae6694f887a395e9431496d93d
+2011-01-26T20:22:21.114366Z
+7608
+fry@processing.org
+

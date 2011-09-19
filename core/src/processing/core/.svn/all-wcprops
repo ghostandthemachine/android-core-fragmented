@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8473/trunk/processing/android/core/src/processing/core
+END
+PImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8074/trunk/processing/android/core/src/processing/core/PImage.java
+END
+PTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8182/trunk/processing/android/core/src/processing/core/PTexture.java
+END
+PApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8424/trunk/processing/android/core/src/processing/core/PApplet.java
+END
+PGraphicsAndroid2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8473/trunk/processing/android/core/src/processing/core/PGraphicsAndroid2D.java
+END
+PGraphicsAndroid3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8471/trunk/processing/android/core/src/processing/core/PGraphicsAndroid3D.java
+END
+PMatrix2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7133/trunk/processing/android/core/src/processing/core/PMatrix2D.java
+END
+PMatrix3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7133/trunk/processing/android/core/src/processing/core/PMatrix3D.java
+END
+PShape3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8182/trunk/processing/android/core/src/processing/core/PShape3D.java
+END
+PStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6242/trunk/processing/android/core/src/processing/core/PStyle.java
+END
+PConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8066/trunk/processing/android/core/src/processing/core/PConstants.java
+END
+PFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7693/trunk/processing/android/core/src/processing/core/PFont.java
+END
+PFramebuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8182/trunk/processing/android/core/src/processing/core/PFramebuffer.java
+END
+PFontTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8374/trunk/processing/android/core/src/processing/core/PFontTexture.java
+END
+PGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8410/trunk/processing/android/core/src/processing/core/PGraphics.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8329/trunk/processing/android/core/src/processing/core/XML.java
+END
+PShapeSVG.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8329/trunk/processing/android/core/src/processing/core/PShapeSVG.java
+END
+PVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7416/trunk/processing/android/core/src/processing/core/PVector.java
+END
+PMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7133/trunk/processing/android/core/src/processing/core/PMatrix.java
+END
+PShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8071/trunk/processing/android/core/src/processing/core/PShape.java
+END

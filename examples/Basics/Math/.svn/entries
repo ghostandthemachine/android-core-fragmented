@@ -1,0 +1,82 @@
+8
+
+dir
+8493
+http://processing.googlecode.com/svn/trunk/processing/android/examples/Basics/Math
+http://processing.googlecode.com/svn
+
+
+
+2011-04-10T17:59:08.871656Z
+7844
+fry@processing.org
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fe3ceab9-de17-3b67-bb2e-7d58edd5e4d6
+
+AdditiveWave
+dir
+
+Arctangent
+dir
+
+Distance1D
+dir
+
+Distance2D
+dir
+
+DoubleRandom
+dir
+
+Graphing2DEquation
+dir
+
+IncrementDecrement
+dir
+
+Modulo
+dir
+
+Noise1D
+dir
+
+Noise2D
+dir
+
+Noise3D
+dir
+
+NoiseWave
+dir
+
+OperatorPrecedence
+dir
+
+PolarToCartesian
+dir
+
+Random
+dir
+
+Sine
+dir
+
+SineCosine
+dir
+
+SineWave
+dir
+

@@ -1,0 +1,4 @@
+This is branch of the Processing for Android portion of the Processing project
+which has been converted from an Android Activity to an Android Fragment
+allowing it to be used with in Android applications. Currently it is only for
+Honeycomb, but that will change soon with the compatibility packages)

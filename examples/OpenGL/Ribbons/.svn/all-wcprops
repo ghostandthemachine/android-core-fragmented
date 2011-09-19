@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8111/trunk/processing/android/examples/OpenGL/Ribbons
+END
+Geometry.pde
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7691/trunk/processing/android/examples/OpenGL/Ribbons/Geometry.pde
+END
+BSpline.pde
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7608/trunk/processing/android/examples/OpenGL/Ribbons/BSpline.pde
+END
+PDB.pde
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7608/trunk/processing/android/examples/OpenGL/Ribbons/PDB.pde
+END
+ArcBall.pde
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7608/trunk/processing/android/examples/OpenGL/Ribbons/ArcBall.pde
+END
+Ribbons.pde
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8111/trunk/processing/android/examples/OpenGL/Ribbons/Ribbons.pde
+END
